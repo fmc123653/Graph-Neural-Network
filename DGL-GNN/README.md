@@ -1,0 +1,1 @@
+Please run the data_process.py file in the dataset folder to automatically generate a random dataset named graph_data.csv. This dataset is a randomly generated binary heterogeneous graph dataset, which is only used to test whether the model can run normally.
